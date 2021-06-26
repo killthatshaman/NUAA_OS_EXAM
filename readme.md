@@ -1,5 +1,5 @@
 # 2021 nuaa os exam
-
+T1不会,T234应该是对的
 ## T1
 + 实现函数 list_visit
   - 主程序遍历链表 list 的每个节点
